@@ -1,0 +1,13 @@
+name = "Portable Mobs"
+filename = "portablemobs-1.1.2-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04bd3a76664b95145ffa4c2ffd4f8ac36972e63b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594747
+project-id = 503922

@@ -1,0 +1,16 @@
+name = "Blueskies"
+author = "HttpRafa & IceStorm"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "118b87fb21b35b58558e8d306ccc37e6e5c481916600e5e8ec0c1e5cc8e830cc"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20"]

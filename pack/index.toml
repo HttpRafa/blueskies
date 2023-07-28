@@ -466,6 +466,11 @@ hash = "118b2f291407112a7506525a35e68837f67f0f35b1c0f1eea872241d18e494bc"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "c35942704019f56300b7f38df4d082472062fbaeb23b6b67f7a94f4bbf1b8a1b"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "71ff2d5d0fd0ba6669591130d0b6e6582fc90c0dd07aa7fd49cb1b2769ddb7bd"
 metafile = true
@@ -548,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "67499e7799c4fc1401af3641a0bf57509b24cce9ee75ad9471efef36a6b3f822"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
 
 [[files]]

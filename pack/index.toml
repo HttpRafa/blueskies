@@ -741,10 +741,6 @@ hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "9dca5cb50217f9803f43e7280f7cc81e1dbf3c78a8271a3d6c6e49755265ad1c"
-
-[[files]]
 file = "resourcepacks/Default-Dark-Mode-1.20-2023.7.0.zip"
 hash = "22a0ad68393273203649d058f1b7788cbdb08b38f6923cd9d6ade8ae33565dc6"
 

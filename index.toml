@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "08c764cc0b672aa62640d0d3ecd1d83362887b6ecc52e4612604d23ec1ccc133"
+
+[[files]]
+file = "README.md"
+hash = "50484de7ef8bae7ea88e4a95fa357404136c9a6a82841e787b4e70f6a67346fb"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 hash = "581b2b56e73bf9942d83853e504d227bdc627b54407fc3ea4d70005af1fef3b4"
 metafile = true

@@ -141,11 +141,6 @@ hash = "130dacafa710b59988b7c72271becc3019da4e86be4ce281ac493a1d9563b76c"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "084ec914d4aba5a139e1bfaeb67c6a6c7cf1ba22cfbf5ef96a46db49c830db96"
-metafile = true
-
-[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "e3a5e1b9f5c80d1fe052fe9825e3195ffb0fde3a33fe550a832c52e41c3b5452"
 metafile = true
@@ -493,6 +488,11 @@ metafile = true
 [[files]]
 file = "mods/numismatic-overhaul.pw.toml"
 hash = "cbe452371a129ee180d25a9a97948a6c9a3c2fe7fa6683d4a6544975124758aa"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "edce84397d90416cc41e83a4ef555e3c48f10f55b3ea0cad39e85571e889195b"
 metafile = true
 
 [[files]]

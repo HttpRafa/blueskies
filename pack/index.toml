@@ -496,11 +496,6 @@ hash = "cbe452371a129ee180d25a9a97948a6c9a3c2fe7fa6683d4a6544975124758aa"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "edce84397d90416cc41e83a4ef555e3c48f10f55b3ea0cad39e85571e889195b"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
 metafile = true
@@ -608,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/sleep-warp.pw.toml"
 hash = "af353ea67be1a7d5acb93922c888bebc8cae215340c21d09666a8321ea2d8ae0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
 
 [[files]]

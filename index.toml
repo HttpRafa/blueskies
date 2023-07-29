@@ -47,6 +47,10 @@ file = "mods/carpet.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -104,6 +108,10 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]

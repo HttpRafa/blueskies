@@ -1,0 +1,13 @@
+name = "Better Farmland"
+filename = "betterfarmland-1.19.2-fabric-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/wQJc76vP/versions/mIdrDlNJ/betterfarmland-1.19.2-fabric-1.0.3.jar"
+hash-format = "sha1"
+hash = "437a1d30c89e82cbe3f0f24ad52375619b70fe09"
+
+[update]
+[update.modrinth]
+mod-id = "wQJc76vP"
+version = "mIdrDlNJ"

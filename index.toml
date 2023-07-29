@@ -31,6 +31,10 @@ file = "mods/betterf3.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/betterfarmland.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 

@@ -27,6 +27,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
@@ -160,3 +164,9 @@ metafile = true
 
 [[files]]
 file = "options.txt"
+
+[[files]]
+file = "resourcepacks/Dark Everywhere.zip"
+
+[[files]]
+file = "shaderpacks/rethinking-voxels_r0.1_alpha4.zip"

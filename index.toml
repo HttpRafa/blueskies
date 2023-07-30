@@ -55,7 +55,15 @@ file = "mods/chipped.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-deco-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -88,14 +96,6 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-fabric.pw.toml"
 metafile = true
 
 [[files]]
@@ -143,6 +143,10 @@ file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 metafile = true
 
@@ -156,6 +160,14 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]

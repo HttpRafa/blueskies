@@ -143,6 +143,10 @@ file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/piercingpaxels.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 metafile = true
 

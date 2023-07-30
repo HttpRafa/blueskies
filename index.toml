@@ -91,10 +91,6 @@ file = "mods/elytra-slot.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/emicompat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 metafile = true
 

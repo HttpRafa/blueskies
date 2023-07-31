@@ -135,6 +135,10 @@ file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/piercingpaxels.pw.toml"
 metafile = true
 
@@ -167,6 +171,10 @@ file = "mods/sodium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 metafile = true
 
@@ -193,6 +201,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 metafile = true
+
+[[files]]
+file = "options.txt"
 
 [[files]]
 file = "resourcepacks/Dark Everywhere.zip"

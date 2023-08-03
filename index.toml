@@ -119,7 +119,15 @@ file = "mods/handcrafted.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
 metafile = true
 
 [[files]]
@@ -132,6 +140,10 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
 metafile = true
 
 [[files]]
@@ -176,10 +188,6 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
 metafile = true
 
 [[files]]

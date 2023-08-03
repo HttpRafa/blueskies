@@ -103,6 +103,10 @@ file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/excavar.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 metafile = true
 

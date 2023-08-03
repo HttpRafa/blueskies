@@ -1,0 +1,13 @@
+name = "Excavar"
+filename = "Excavar-1.19.1-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u86oU2cO/versions/1.19.1-2.1.2/Excavar-1.19.1-2.1.2.jar"
+hash-format = "sha1"
+hash = "d19e2842b7e2e0d4019e303a937a2527fafdd57f"
+
+[update]
+[update.modrinth]
+mod-id = "u86oU2cO"
+version = "7NF9teJO"

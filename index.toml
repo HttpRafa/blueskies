@@ -99,10 +99,6 @@ file = "mods/elytra-slot.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/excavar.pw.toml"
 metafile = true
 
@@ -225,9 +221,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 metafile = true
-
-[[files]]
-file = "options.txt"
 
 [[files]]
 file = "resourcepacks/Dark Everywhere.zip"

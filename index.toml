@@ -95,6 +95,10 @@ file = "mods/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-structures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 metafile = true
 

@@ -251,6 +251,10 @@ file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/wormhole.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 metafile = true
 

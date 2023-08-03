@@ -191,6 +191,10 @@ file = "mods/merequester.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/mob-lassos.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 metafile = true
 
@@ -216,6 +220,10 @@ metafile = true
 
 [[files]]
 file = "mods/powah.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
 metafile = true
 
 [[files]]

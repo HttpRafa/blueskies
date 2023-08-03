@@ -43,6 +43,18 @@ file = "mods/betterfarmland.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botany-pots.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 metafile = true
 
@@ -87,6 +99,10 @@ file = "mods/createaddition.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 metafile = true
 
@@ -116,6 +132,10 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
 metafile = true
 
 [[files]]
@@ -172,6 +192,14 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Chunk Loaders"
-filename = "chunkloaders-1.2.6-fabric-mc1.20.jar"
+filename = "chunkloaders-1.2.6-forge-mc1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/t1VgucWo/versions/n4xh5U1E/chunkloaders-1.2.6-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/t1VgucWo/versions/Dw0bJfZ8/chunkloaders-1.2.6-forge-mc1.19.jar"
 hash-format = "sha1"
-hash = "56bdd1c19df03a45bd3a1e1761bbe2a6e41d111a"
+hash = "8e38ff9a35a27f9ab3d7462aeece69522d4675fe"
 
 [update]
 [update.modrinth]
 mod-id = "t1VgucWo"
-version = "n4xh5U1E"
+version = "Dw0bJfZ8"

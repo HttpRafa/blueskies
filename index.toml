@@ -15,11 +15,19 @@ file = "mods/ae2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
 metafile = true
 
 [[files]]
@@ -39,15 +47,11 @@ file = "mods/botarium.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
+file = "mods/caelus.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/carpet-extra.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/carpet.pw.toml"
+file = "mods/canary.pw.toml"
 metafile = true
 
 [[files]]
@@ -63,15 +67,11 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-deco-fabric.pw.toml"
+file = "mods/create-deco.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-enchantment-industry-fabric.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric.pw.toml"
+file = "mods/create-enchantment-industry.pw.toml"
 metafile = true
 
 [[files]]
@@ -79,7 +79,15 @@ file = "mods/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
 metafile = true
 
 [[files]]
@@ -91,6 +99,18 @@ file = "mods/elytra-slot.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/flux-networks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/funky-flora.pw.toml"
 metafile = true
 
@@ -99,35 +119,43 @@ file = "mods/handcrafted.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/just-zoom.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "mods/konkrete.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mod-loading-screen.pw.toml"
+file = "mods/kotlin-for-forge.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
+file = "mods/mekanism-additions.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
+file = "mods/mekanism-generators.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
@@ -135,23 +163,15 @@ file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/piercingpaxels.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/powah.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
 metafile = true
 
 [[files]]
@@ -167,7 +187,11 @@ file = "mods/resourceful-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
+file = "mods/rubidium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/server-tab-info.pw.toml"
 metafile = true
 
 [[files]]
@@ -183,23 +207,11 @@ file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/trinkets.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]

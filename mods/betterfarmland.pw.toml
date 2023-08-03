@@ -1,13 +1,13 @@
 name = "Better Farmland"
-filename = "betterfarmland-1.0.3-1.20.1.jar"
+filename = "betterfarmland-1.19.2-forge-1.0.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/wQJc76vP/versions/E633PvfI/betterfarmland-1.0.3-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/wQJc76vP/versions/gdQeObiS/betterfarmland-1.19.2-forge-1.0.3.jar"
 hash-format = "sha1"
-hash = "ee2bf7c52153cebe056f4552970a0cc519df3274"
+hash = "10746d08c017e73f86d2da48e7210749cd137af8"
 
 [update]
 [update.modrinth]
 mod-id = "wQJc76vP"
-version = "E633PvfI"
+version = "gdQeObiS"

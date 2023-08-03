@@ -55,10 +55,6 @@ file = "mods/canary.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chipped.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 metafile = true
 
@@ -188,10 +184,6 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/server-tab-info.pw.toml"
 metafile = true
 
 [[files]]

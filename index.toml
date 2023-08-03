@@ -67,6 +67,10 @@ file = "mods/create-deco.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 metafile = true
 
@@ -128,6 +132,10 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
 metafile = true
 
 [[files]]

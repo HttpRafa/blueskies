@@ -19,6 +19,10 @@ file = "mods/ae2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 metafile = true
 

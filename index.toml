@@ -99,6 +99,10 @@ file = "mods/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-structures.pw.toml"
 metafile = true
 
@@ -140,6 +144,10 @@ metafile = true
 
 [[files]]
 file = "mods/funky-flora.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
 metafile = true
 
 [[files]]

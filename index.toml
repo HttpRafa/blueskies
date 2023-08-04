@@ -51,6 +51,10 @@ file = "mods/bookshelf-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots-tiers.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/botany-pots.pw.toml"
 metafile = true
 

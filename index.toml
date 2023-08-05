@@ -87,6 +87,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-ad-astra-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 metafile = true
 
@@ -132,6 +136,10 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]

@@ -19,6 +19,10 @@ file = "mods/ae2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 metafile = true
 
@@ -83,6 +87,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-ad-astra-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 metafile = true
 
@@ -96,6 +104,10 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
@@ -127,6 +139,10 @@ file = "mods/elytra-slot.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/excavar.pw.toml"
 metafile = true
 
@@ -140,6 +156,10 @@ metafile = true
 
 [[files]]
 file = "mods/funky-flora.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
 metafile = true
 
 [[files]]
@@ -272,6 +292,10 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
 metafile = true
 
 [[files]]

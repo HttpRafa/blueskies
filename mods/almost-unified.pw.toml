@@ -1,13 +1,13 @@
 name = "Almost Unified"
-filename = "almostunified-forge-1.19.2-0.5.0.jar"
+filename = "almostunified-forge-1.20.1-0.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/vhMO7SQr/almostunified-forge-1.19.2-0.5.0.jar"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/YH1x7MeQ/almostunified-forge-1.20.1-0.5.0.jar"
 hash-format = "sha1"
-hash = "a5e89e47bb7e9650fb4765fcbea2e4d29f04fa0e"
+hash = "8acc092ffc325d41be992a26d06e304f2f032fbf"
 
 [update]
 [update.modrinth]
 mod-id = "sdaSaQEz"
-version = "vhMO7SQr"
+version = "YH1x7MeQ"

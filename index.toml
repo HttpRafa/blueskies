@@ -287,6 +287,10 @@ file = "mods/rftools-base.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rftools-dimensions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rftools-utility.pw.toml"
 metafile = true
 

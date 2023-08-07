@@ -143,11 +143,19 @@ file = "mods/elytra-slot.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ends-delight.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/excavar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -284,6 +292,10 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]

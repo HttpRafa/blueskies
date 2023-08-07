@@ -87,6 +87,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-ad-astra-compat.pw.toml"
 metafile = true
 

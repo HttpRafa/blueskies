@@ -143,6 +143,10 @@ file = "mods/elytra-slot.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/ends-delight.pw.toml"
 metafile = true
 

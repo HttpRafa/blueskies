@@ -139,6 +139,10 @@ file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 metafile = true
 

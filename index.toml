@@ -319,6 +319,10 @@ file = "mods/supermartijn642s-core-lib.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tempad.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 metafile = true
 

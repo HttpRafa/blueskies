@@ -87,6 +87,10 @@ file = "mods/cloth-config.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-ad-astra-compat.pw.toml"
 metafile = true
 
@@ -135,7 +139,19 @@ file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -144,6 +160,10 @@ metafile = true
 
 [[files]]
 file = "mods/excavar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
 metafile = true
 
 [[files]]
@@ -275,11 +295,19 @@ file = "mods/rftools-base.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/rftools-dimensions.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/rftools-utility.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
 metafile = true
 
 [[files]]
@@ -292,6 +320,14 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tempad.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
 metafile = true
 
 [[files]]

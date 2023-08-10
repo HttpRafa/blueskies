@@ -327,6 +327,10 @@ file = "mods/tempad.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 metafile = true
 

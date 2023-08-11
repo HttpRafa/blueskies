@@ -7,6 +7,12 @@ file = "LICENSE"
 file = "README.md"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 metafile = true
 
@@ -304,6 +310,10 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
 metafile = true
 
 [[files]]

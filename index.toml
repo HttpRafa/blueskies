@@ -97,6 +97,10 @@ file = "mods/cobblefordays.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-ad-astra-compat.pw.toml"
 metafile = true
 
@@ -194,6 +198,10 @@ metafile = true
 
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/infinitewatersource.pw.toml"
 metafile = true
 
 [[files]]

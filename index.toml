@@ -197,6 +197,10 @@ file = "mods/immersiveengineering.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/infinitewatersource.pw.toml"
 metafile = true
 
@@ -285,6 +289,10 @@ file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 metafile = true
 
@@ -338,6 +346,10 @@ metafile = true
 
 [[files]]
 file = "mods/tempad.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
 metafile = true
 
 [[files]]

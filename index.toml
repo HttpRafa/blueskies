@@ -197,6 +197,10 @@ file = "mods/immersiveengineering.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/infinitewatersource.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 metafile = true
 

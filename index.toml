@@ -376,4 +376,32 @@ metafile = true
 file = "resourcepacks/Dark Everywhere.zip"
 
 [[files]]
+file = "resourcepacks/fullbright-ub.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+metafile = true
+
+[[files]]
 file = "shaderpacks/rethinking-voxels_r0.1_alpha4.zip"
+
+[[files]]
+file = "shaderpacks/solas-shader.pw.toml"
+metafile = true

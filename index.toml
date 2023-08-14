@@ -373,10 +373,6 @@ file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fullbright-ub.pw.toml"
-metafile = true
-
-[[files]]
 file = "resourcepacks/unity-dark-edition.pw.toml"
 metafile = true
 

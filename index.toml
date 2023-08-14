@@ -373,9 +373,6 @@ file = "mods/xaeros-world-map.pw.toml"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Dark Everywhere.zip"
-
-[[files]]
 file = "resourcepacks/fullbright-ub.pw.toml"
 metafile = true
 
@@ -398,9 +395,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
 metafile = true
-
-[[files]]
-file = "shaderpacks/rethinking-voxels_r0.1_alpha4.zip"
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"

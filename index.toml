@@ -85,6 +85,10 @@ file = "mods/canary.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 metafile = true
 

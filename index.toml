@@ -169,6 +169,10 @@ file = "mods/excavar.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/expanded-storage.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 metafile = true
 

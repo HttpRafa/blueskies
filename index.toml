@@ -281,6 +281,10 @@ file = "mods/mouse-tweaks.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 metafile = true
 

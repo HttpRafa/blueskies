@@ -33,6 +33,10 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
@@ -54,6 +58,10 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
 metafile = true
 
 [[files]]
@@ -85,6 +93,9 @@ file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chronontech-0.1.0.jar"
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 metafile = true
 
@@ -98,6 +109,10 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
 metafile = true
 
 [[files]]
@@ -158,6 +173,10 @@ metafile = true
 
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
 metafile = true
 
 [[files]]

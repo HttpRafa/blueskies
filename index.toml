@@ -116,6 +116,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-ad-astra-compat.pw.toml"
 metafile = true
 

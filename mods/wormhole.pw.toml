@@ -1,13 +1,13 @@
 name = "Wormhole (Portals)"
-filename = "wormhole-1.1.13-forge-mc1.19.jar"
+filename = "wormhole-1.1.13a-forge-mc1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6nHZTTjQ/versions/kHPObOgc/wormhole-1.1.13-forge-mc1.19.jar"
+url = "https://cdn.modrinth.com/data/6nHZTTjQ/versions/fhsXzJVp/wormhole-1.1.13a-forge-mc1.19.jar"
 hash-format = "sha1"
-hash = "e622adf0539357568749eeeecb2ad080c2450339"
+hash = "a79ad7b45f8c2a1dec1e3fac3375a43bdb09e9ca"
 
 [update]
 [update.modrinth]
 mod-id = "6nHZTTjQ"
-version = "kHPObOgc"
+version = "fhsXzJVp"

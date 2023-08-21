@@ -93,6 +93,10 @@ file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chronon-technology.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 metafile = true
 
@@ -238,6 +242,10 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
 metafile = true
 
 [[files]]

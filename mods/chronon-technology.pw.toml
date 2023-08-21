@@ -1,0 +1,13 @@
+name = "Chronon Technology"
+filename = "chronontech-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R0rrS80D/versions/suWD6oKd/chronontech-0.1.0.jar"
+hash-format = "sha1"
+hash = "e2f95a57d45145e017c5f9c08b702a6509f4cb45"
+
+[update]
+[update.modrinth]
+mod-id = "R0rrS80D"
+version = "suWD6oKd"

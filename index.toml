@@ -97,6 +97,10 @@ file = "mods/cc-tweaked.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/chronon-technology.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/chronontech-0.1.0.jar"
 
 [[files]]
@@ -241,6 +245,10 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-mekanism-multiblocks.pw.toml"
 metafile = true
 
 [[files]]

@@ -101,9 +101,6 @@ file = "mods/chronon-technology.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/chronontech-0.1.0.jar"
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 metafile = true
 

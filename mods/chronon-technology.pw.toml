@@ -1,13 +1,13 @@
 name = "Chronon Technology"
-filename = "chronontech-0.1.0.jar"
+filename = "chronontech-0.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R0rrS80D/versions/XVPhMIgu/chronontech-0.1.0.jar"
+url = "https://cdn.modrinth.com/data/R0rrS80D/versions/mEFgdDcm/chronontech-0.1.1.jar"
 hash-format = "sha1"
-hash = "5d9e7d9cfa2de680f5641e4e08b6bbee31c1b52c"
+hash = "ff0100918dacf770f6cdaedb1771b6c5e56e64cb"
 
 [update]
 [update.modrinth]
 mod-id = "R0rrS80D"
-version = "XVPhMIgu"
+version = "mEFgdDcm"

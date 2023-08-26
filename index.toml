@@ -13,6 +13,9 @@ file = "config/simple-rpc/server-entries.toml"
 file = "config/simple-rpc/simple-rpc.toml"
 
 [[files]]
+file = "datapacks/custom.zip"
+
+[[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
 metafile = true
 
@@ -322,6 +325,10 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
 metafile = true
 
 [[files]]

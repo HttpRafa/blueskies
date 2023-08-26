@@ -325,6 +325,10 @@ file = "mods/patchouli.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 metafile = true
 

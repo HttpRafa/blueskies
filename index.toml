@@ -180,6 +180,10 @@ file = "mods/deeperdarker.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
@@ -209,6 +213,10 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
 metafile = true
 
 [[files]]
@@ -432,6 +440,10 @@ file = "mods/titanium.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tool-leveling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/trash-cans.pw.toml"
 metafile = true
 
@@ -453,6 +465,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
 metafile = true
 
 [[files]]

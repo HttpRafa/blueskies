@@ -120,6 +120,10 @@ file = "mods/cobblefordays.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 metafile = true
 

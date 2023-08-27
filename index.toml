@@ -56,6 +56,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 metafile = true
 
@@ -408,6 +412,10 @@ file = "mods/tempad.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 metafile = true
 
@@ -417,6 +425,10 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
 metafile = true
 
 [[files]]

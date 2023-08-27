@@ -228,6 +228,10 @@ file = "mods/funky-flora.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 metafile = true
 
@@ -361,6 +365,10 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
 metafile = true
 
 [[files]]

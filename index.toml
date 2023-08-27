@@ -168,6 +168,10 @@ file = "mods/curios.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
@@ -213,6 +217,10 @@ metafile = true
 
 [[files]]
 file = "mods/funky-flora.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
@@ -320,6 +328,10 @@ file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nyctophobia.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 metafile = true
 
@@ -369,6 +381,10 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Nyctophobia"
+filename = "The_Graveyard_Biomes_1.2_(FORGE)_for_1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5jeNqWg/versions/BBrfyFgj/The_Graveyard_Biomes_1.2_%28FORGE%29_for_1.19.2.jar"
+hash-format = "sha1"
+hash = "177c7dcbe881379bbd9495463c931a2cf1faac84"
+
+[update]
+[update.modrinth]
+mod-id = "k5jeNqWg"
+version = "BBrfyFgj"

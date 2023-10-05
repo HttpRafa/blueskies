@@ -1,13 +1,13 @@
 name = "Just Enough Mekanism Multiblocks"
-filename = "JustEnoughMekanismMultiblocks-1.19.2-3.2.jar"
+filename = "JustEnoughMekanismMultiblocks-1.20.1-4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kRaE85yQ/versions/ngnogdcP/JustEnoughMekanismMultiblocks-1.19.2-3.2.jar"
+url = "https://cdn.modrinth.com/data/kRaE85yQ/versions/LUynm64i/JustEnoughMekanismMultiblocks-1.20.1-4.1.jar"
 hash-format = "sha1"
-hash = "df0daa244207f05b2402100923c12ba56b2aab5e"
+hash = "31e864092ccbf1bafd516fcba05670810c222940"
 
 [update]
 [update.modrinth]
 mod-id = "kRaE85yQ"
-version = "ngnogdcP"
+version = "LUynm64i"

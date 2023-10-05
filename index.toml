@@ -52,6 +52,10 @@ file = "mods/architectury-api.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 metafile = true
 
@@ -112,6 +116,10 @@ file = "mods/cobblefordays.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 metafile = true
 
@@ -164,6 +172,14 @@ file = "mods/curios.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
@@ -200,6 +216,10 @@ file = "mods/expanded-storage.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/extreme-reactors.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 metafile = true
 
@@ -213,6 +233,14 @@ metafile = true
 
 [[files]]
 file = "mods/funky-flora.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
 metafile = true
 
 [[files]]
@@ -320,6 +348,10 @@ file = "mods/natures-compass.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nyctophobia.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 metafile = true
 
@@ -341,6 +373,10 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
 metafile = true
 
 [[files]]
@@ -372,6 +408,10 @@ file = "mods/simple-discord-rpc.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 metafile = true
 
@@ -392,7 +432,15 @@ file = "mods/tempad.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tool-leveling.pw.toml"
 metafile = true
 
 [[files]]
@@ -401,6 +449,10 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
 metafile = true
 
 [[files]]
@@ -413,6 +465,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
 metafile = true
 
 [[files]]

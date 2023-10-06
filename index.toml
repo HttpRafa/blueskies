@@ -128,10 +128,6 @@ file = "mods/cosmetic-armor-reworked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-ad-astra-compat.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 metafile = true
 
@@ -181,10 +177,6 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/effortless-building.pw.toml"
 metafile = true
 
 [[files]]

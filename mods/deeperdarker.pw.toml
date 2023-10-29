@@ -1,13 +1,13 @@
 name = "Deeper and Darker"
-filename = "deeperdarker-forge-1.20.1-1.2.0.jar"
+filename = "deeperdarker-forge-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fnAffV0n/versions/bEomsNE8/deeperdarker-forge-1.20.1-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/tqPSIRGd/deeperdarker-forge-1.20.1-1.2.1.jar"
 hash-format = "sha1"
-hash = "c2cc633ba30c49c2e9bc2d645acd418531b025da"
+hash = "b7cd826ae029ad99234501abefef37fc6f3e57d8"
 
 [update]
 [update.modrinth]
 mod-id = "fnAffV0n"
-version = "bEomsNE8"
+version = "tqPSIRGd"

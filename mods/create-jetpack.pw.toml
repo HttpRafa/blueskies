@@ -1,13 +1,13 @@
 name = "Create Jetpack"
-filename = "create_jetpack-forge-4.1.0.jar"
+filename = "create_jetpack-forge-4.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/Ic1EDghB/create_jetpack-forge-4.1.0.jar"
+url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/G5a7PfVo/create_jetpack-forge-4.1.1.jar"
 hash-format = "sha1"
-hash = "4284d06bc2c4511a92ee418a7c76140583dd481c"
+hash = "c7e93441b8065d7a2f69e6b4beb54dcd5816fad7"
 
 [update]
 [update.modrinth]
 mod-id = "UbFnAd4l"
-version = "Ic1EDghB"
+version = "G5a7PfVo"

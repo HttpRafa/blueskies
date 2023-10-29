@@ -36,10 +36,6 @@ file = "mods/appleskin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/applied-botanics.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 metafile = true
 
@@ -65,10 +61,6 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
 metafile = true
 
 [[files]]
@@ -128,7 +120,7 @@ file = "mods/cosmetic-armor-reworked.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/create-deco.pw.toml"
+file = "mods/craterlib.pw.toml"
 metafile = true
 
 [[files]]
@@ -144,11 +136,23 @@ file = "mods/create-jetpack.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/create-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-utilities.pw.toml"
 metafile = true
 
 [[files]]
@@ -256,7 +260,11 @@ file = "mods/infinitewatersource.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
+file = "mods/item-collectors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
 metafile = true
 
 [[files]]
@@ -293,6 +301,10 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mega.pw.toml"
 metafile = true
 
 [[files]]
@@ -393,6 +405,14 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/security-craft.pw.toml"
 metafile = true
 
 [[files]]

@@ -140,6 +140,10 @@ file = "mods/create-misc-and-things.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-vents.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/create-new-age.pw.toml"
 metafile = true
 

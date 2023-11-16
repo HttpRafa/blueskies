@@ -28,6 +28,10 @@ file = "mods/ae2.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 metafile = true
 
@@ -100,6 +104,10 @@ file = "mods/chunk-loaders.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 metafile = true
 
@@ -141,10 +149,6 @@ metafile = true
 
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/create-new-age.pw.toml"
 metafile = true
 
 [[files]]

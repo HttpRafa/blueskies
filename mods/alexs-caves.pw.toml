@@ -1,0 +1,13 @@
+name = "Alex's Caves"
+filename = "alexscaves-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/U6GY0xp0/versions/zUdjxO9k/alexscaves-1.0.8.jar"
+hash-format = "sha1"
+hash = "4da170d3c54845faa9f0d9471017e696db59ddee"
+
+[update]
+[update.modrinth]
+mod-id = "U6GY0xp0"
+version = "zUdjxO9k"

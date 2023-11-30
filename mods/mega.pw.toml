@@ -1,13 +1,13 @@
 name = "MEGA Cells"
-filename = "megacells-forge-2.2.3-1.20.1.jar"
+filename = "megacells-forge-2.2.6-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/lZ15tLJ0/megacells-forge-2.2.3-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/TB8s9guU/megacells-forge-2.2.6-1.20.1.jar"
 hash-format = "sha1"
-hash = "acbf58bcb70e4f7e395ac54c0aea3b5ff9b2f2d2"
+hash = "641847524df250e51ed59c9b22297463c915ccea"
 
 [update]
 [update.modrinth]
 mod-id = "jjuIRIVr"
-version = "lZ15tLJ0"
+version = "TB8s9guU"

@@ -36,6 +36,10 @@ file = "mods/almost-unified.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 metafile = true
 
@@ -192,7 +196,15 @@ file = "mods/dungeons-and-taverns.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
 metafile = true
 
 [[files]]
@@ -269,6 +281,10 @@ metafile = true
 
 [[files]]
 file = "mods/item-collectors.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/itemlocks.pw.toml"
 metafile = true
 
 [[files]]
@@ -412,7 +428,7 @@ file = "mods/rftools-utility.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
+file = "mods/rubidium-extra.pw.toml"
 metafile = true
 
 [[files]]
@@ -485,6 +501,46 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
 metafile = true
 
 [[files]]

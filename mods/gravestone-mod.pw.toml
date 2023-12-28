@@ -1,13 +1,13 @@
 name = "GraveStone Mod"
-filename = "gravestone-1.20.1-1.0.10.jar"
+filename = "gravestone-forge-1.20.1-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/wXySYo0E/gravestone-1.20.1-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/xZYJq8x1/gravestone-forge-1.20.1-1.0.11.jar"
 hash-format = "sha1"
-hash = "682fff56a8eae88fcb3d9fe98e99553d5c217e31"
+hash = "24c39d0a147f90037bea69dd6672554f60f5d078"
 
 [update]
 [update.modrinth]
 mod-id = "RYtXKJPr"
-version = "wXySYo0E"
+version = "xZYJq8x1"

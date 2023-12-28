@@ -9,7 +9,7 @@ hash-format = "sha256"
 
 [versions]
 minecraft = "1.20.1"
-neoforge = "47.1.81"
+neoforge = "47.1.84"
 
 [options]
 no-internal-hashes = true

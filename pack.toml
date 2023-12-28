@@ -8,8 +8,8 @@ file = "index.toml"
 hash-format = "sha256"
 
 [versions]
-minecraft = "1.20.1"
-neoforge = "47.1.84"
+minecraft = "1.20.4"
+neoforge = "20.4.60-beta"
 
 [options]
 no-internal-hashes = true

@@ -280,6 +280,10 @@ file = "mods/infinitewatersource.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/interactive.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/item-collectors.pw.toml"
 metafile = true
 

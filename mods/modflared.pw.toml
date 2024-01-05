@@ -1,0 +1,13 @@
+name = "Modflared"
+filename = "modflared-forge-0.1.2-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uRHq6kbO/versions/kTk5Zaml/modflared-forge-0.1.2-1.20.1.jar"
+hash-format = "sha1"
+hash = "29a6fa9bcaffb14bedcbccba3b08663741785e4f"
+
+[update]
+[update.modrinth]
+mod-id = "uRHq6kbO"
+version = "kTk5Zaml"

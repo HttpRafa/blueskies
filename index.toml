@@ -360,6 +360,10 @@ file = "mods/mob-lassos.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/modflared.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 metafile = true
 
